@@ -1,3 +1,5 @@
+data: 3.5gb
+
 To run the program google colab or conda must be used to open a jupyter notebook file.
 
 How to run:
