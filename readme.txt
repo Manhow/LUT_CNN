@@ -1,9 +1,8 @@
-data: 3.5gb
+data: 3.5gb (112 classes, data from the microscope)
 
-To run the program google colab or conda must be used to open a jupyter notebook file.
+-To run the program google colab or conda must be used to open a jupyter notebook file.
+-
 
 How to run:
-1. Open 'ADAML.ipynb' in jupyter notebook. 
-2. Make sure the environment contains the frameworks mentioned in the section 'Adjust workspace'
-3. Edit 'tensor_board_dir' & 'filenames_dir', 'modeldir' & 'loaded_model'. See instructions in the section "Adjust workspace"
-4. Run all lines and see 'model.evaluate(valid_data)'
+1. Open 'ADAML.ipynb' in jupyter notebook
+2. If you are using conda, environment can be used from file 'environment.yml'
